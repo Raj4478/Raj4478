@@ -9,7 +9,7 @@ I am a passionate **Full Stack Developer** with expertise in building responsive
 - 🔭 Currently exploring advanced backend architectures and cloud deployment.  
 - 🌱 Always learning new technologies like **Next.js**, **GraphQL**, and **TypeScript**.  
 - 🛠️ Open to collaborations on innovative web development projects.  
-- 📫 Reach me at **[LinkedIn](https://linkedin.com/in/singhraj3367)**.  
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/rajeshwar-singh-b77075271)**.  
 
 ---
 
@@ -75,9 +75,8 @@ I am a passionate **Full Stack Developer** with expertise in building responsive
 
 ## 🤝 Connect With Me  
 
-- 💼 **LinkedIn**: [linkedin.com/in/singhraj3367](https://linkedin.com/in/singhraj3367)  
-- 📧 **Email**: [rajeshwar.singh@example.com](mailto:rajeshwar.singh@example.com)  
-- 🌐 **Portfolio**: [Your Personal Portfolio Website](#)  
+- 💼 **LinkedIn**: [linkedin.com/in/singhraj3367](https://www.linkedin.com/in/rajeshwar-singh-b77075271)  
+- 📧 **Email**: [rajeshwar.singh@example.com](mailto:Singhrajeshwar28@gmail.com)  
 
 ---
 

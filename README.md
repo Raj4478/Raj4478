@@ -112,14 +112,7 @@ I'm an **Innovative Full-Stack Web Developer** currently working at **Vosyn**, s
 
 ## 💼 Professional Experience
 
-### 🚀 Web Developer @ Vosyn (June 2025 - Present)
-**AI-Powered Global Communication Technology Company**
 
-- 🌍 **Global Impact**: Developed localization features supporting 550+ professionals worldwide
-- 🎵 **Custom Audio Solutions**: Built advanced audio player with subtitle parsing and multilingual dubbing
-- 🤖 **AI Integration**: Collaborated on multimodal LLM platform supporting voice, video, audio, text, and image processing
-- ⚡ **Performance Optimization**: Improved website loading speeds and implemented responsive design standards
-- 🌐 **International Collaboration**: Worked with global teams using agile methodologies for 2025 launch initiative
 
 ## 🎓 Education
 
@@ -195,7 +188,6 @@ I'm always interested in connecting with fellow developers, AI enthusiasts, and 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshwar-singh-b77075271)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raj4478)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Singhrajeshwar28@gmail.com)
-[![Vosyn](https://img.shields.io/badge/-Vosyn-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vosyn.ai)
 
 </div>
 

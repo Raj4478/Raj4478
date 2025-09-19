@@ -78,13 +78,14 @@ I'm an **Innovative Full-Stack Web Developer** currently working at **Vosyn**, s
 
 ### 🌐 Socially - Social Media Platform
 **Modern social networking application built with Next.js**
-- **Tech Stack**: Next.js, React.js, JavaScript, Responsive Design
+- **Tech Stack**: Next.js, React.js, JavaScript, Responsive Design, Prisma
 - **Features**: User authentication, real-time feeds, social interactions, mobile-optimized interface
 - **Innovation**: Built with modern web technologies for optimal performance and user experience
 
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/Raj4478/Socially)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 
 ---
 

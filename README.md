@@ -1,7 +1,7 @@
 # Hi there, I'm Rajeshwar Singh! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=500&lines=Full+Stack+Web+Developer;AI+%26+Localization+Specialist;Healthcare+Tech+Enthusiast;Web+Developer+%40+Vosyn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=500&lines=Full+Stack+Web+Developer;AI+%26+Localization+Specialist;Healthcare+Tech+Enthusiast;Open+Source+Contributor;Web+Developer+%40+Vosyn" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -12,6 +12,7 @@ I'm an **Innovative Full-Stack Web Developer** currently working at **Vosyn**, s
 - 🌱 Learning **Advanced AI Integration & Multimodal LLM Systems**
 - 👯 Looking to collaborate on **AI-powered applications & Healthcare Systems**
 - 💬 Ask me about **Web Localization, AI Integration, or Full-Stack Development**
+- 🌍 Contributing to **Open Source Accessibility Projects** like Cboard
 - ⚡ Fun fact: I help 550+ professionals worldwide communicate seamlessly through AI technology!
 
 ## 🛠️ Tech Stack
@@ -50,6 +51,22 @@ I'm an **Innovative Full-Stack Web Developer** currently working at **Vosyn**, s
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile_Development-2496ED?style=flat-square&logo=agile&logoColor=white)
 
+## 🤝 Open Source Contributions
+
+### 🗣️ Cboard Communication Platform
+**Accessibility technology for individuals with speech and language disabilities**
+
+[![Contribution](https://img.shields.io/badge/-View_Contribution-181717?style=flat-square&logo=github)](https://github.com/cboard-org/cboard/pull/2021)
+![Accessibility](https://img.shields.io/badge/-Accessibility-4CAF50?style=flat-square&logo=accessibility&logoColor=white)
+![Localization](https://img.shields.io/badge/-Localization-2196F3?style=flat-square&logo=translate&logoColor=white)
+
+- **Contribution**: Added support for Lao language (lo) to expand accessibility to Lao-speaking users
+- **Impact**: Enabled communication tools for individuals with autism, cerebral palsy, and speech disabilities in underserved communities
+- **Tech**: Internationalization, Translation files, Language configuration, Text rendering
+- **Community**: Collaborated with global developers on assistive technology solutions
+
+*Cboard helps children and adults communicate through symbols and voice synthesis, serving as a critical tool for inclusive communication.*
+
 ## 🌟 Featured Projects
 
 ### 🤖 X (Twitter) AI Automation Tool
@@ -86,7 +103,6 @@ I'm an **Innovative Full-Stack Web Developer** currently working at **Vosyn**, s
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-
 ---
 
 ### 📚 Choose Your Own Adventure
@@ -113,14 +129,18 @@ I'm an **Innovative Full-Stack Web Developer** currently working at **Vosyn**, s
 
 ## 💼 Professional Experience
 
-
+**Web Developer @ Vosyn** | *June 2025 - Present*
+- Building AI-powered localization systems for multimodal LLM platforms
+- Developing custom audio players with multilingual subtitle parsing
+- Implementing real-time language switching for 550+ global professionals
+- Collaborating with international teams on 2025 global launch initiative
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)** | CGC Jhanjeri, Chandigarh | 2023 - 2025  
 *Specialization: Software Engineering, Database Management, Web Technologies*
 
-**Bachelor of Computer Applications (BCA)** | GNDU, Amritsar | 2019 - 2022  
+**Bachelor of Science (BSc)** | GNDU, Amritsar | 2019 - 2022  
 *Foundation: Programming Fundamentals, Object-Oriented Programming, Database Systems*
 
 ## 📊 GitHub Stats
@@ -144,13 +164,15 @@ const rajeshwarSingh = {
         "AI-Powered Technology Development",
         "Real-time Localization Systems",
         "Cross-Cultural Communication Technology",
-        "Multimodal LLM Integration"
+        "Multimodal LLM Integration",
+        "Accessibility Technology"
     ],
     currentlyWorkingOn: [
         "AI-powered global communication platform",
         "Advanced audio processing systems",
         "Healthcare technology solutions",
-        "Real-time language switching features"
+        "Real-time language switching features",
+        "Open source accessibility contributions"
     ],
     expertise: [
         "Internationalization (i18n) Implementation",
@@ -158,9 +180,11 @@ const rajeshwarSingh = {
         "RESTful API Architecture",
         "Database Optimization",
         "Performance Enhancement",
-        "Responsive Web Design"
+        "Responsive Web Design",
+        "Assistive Technology Development"
     ],
-    collaboration: "International teams using agile methodologies"
+    collaboration: "International teams & Open Source communities",
+    impact: "Helping break communication barriers globally"
 };
 ```
 
@@ -171,6 +195,7 @@ const rajeshwarSingh = {
 - **Real-time Communication** technologies
 - **Cloud Architecture** with Google Cloud Platform
 - **Performance Optimization** for global content delivery
+- **Accessibility Standards** and inclusive design practices
 
 ## 📈 Contribution Activity
 
@@ -182,7 +207,7 @@ const rajeshwarSingh = {
 
 ## 🤝 Let's Connect!
 
-I'm always interested in connecting with fellow developers, AI enthusiasts, and professionals working on innovative technology solutions!
+I'm always interested in connecting with fellow developers, AI enthusiasts, accessibility advocates, and professionals working on innovative technology solutions!
 
 <div align="center">
 
@@ -204,9 +229,9 @@ I'm always interested in connecting with fellow developers, AI enthusiasts, and 
 
 <div align="center">
 
-**"Innovation distinguishes between a leader and a follower."** – Steve Jobs
+**"Technology is best when it brings people together."** – Matt Mullenweg
 
-*Currently helping break language barriers and enhance cross-cultural communication through AI technology at Vosyn!* 🌍✨
+*Currently helping break language barriers and enhance cross-cultural communication through AI technology at Vosyn, while contributing to open source accessibility projects!* 🌍✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raj4478&color=blueviolet&style=flat-square&label=Profile+Views)
 

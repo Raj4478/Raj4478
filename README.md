@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an **Innovative Full-Stack Web Developer** currently working at **Vosyn**, specializing in AI-powered localization technology. With expertise in JavaScript, React.js, Node.js, and MongoDB, I create responsive and user-friendly web applications that break language barriers and enhance cross-cultural communication experiences.
+I'm an **Full-Stack Web Developer** currently working at **Vosyn**, specializing in AI-powered localization technology. With expertise in JavaScript, React.js, Node.js, and MongoDB, I create responsive and user-friendly web applications that break language barriers and enhance cross-cultural communication experiences.
 
 - 🔭 Currently working at **Vosyn** on **AI-powered global communication technology**
 - 🌱 Learning **Advanced AI Integration & Multimodal LLM Systems**

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:a78bfa&height=200&section=header&text=Rajeshwar%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AWS&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:a78bfa&height=200&section=header&text=Rajeshwar%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AWS&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://linkedin.com/in/rajeshwar-singh-b6990419a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:Singhrajeshwar28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -27,7 +27,7 @@ const rajeshwar: Engineer = {
   },
   education:  "MCA — CGC Jhanjeri, Chandigarh (2025)",
   location:   "Chandigarh, India 🇮🇳",
-  openTo:     "SDE-II roles · Backend · Distributed Systems · Fintech/Insurtech",
+  openTo:     "SDE-II roles · Full-Stack · Backend · Distributed Systems · Fintech/Insurtech",
 };
 ```
 

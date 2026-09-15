@@ -165,6 +165,15 @@ Core Web Vitals improved **35%**
 
 ---
 
+## 🤝 Open Source Contributions
+
+| Project | Contribution | Pull Request | Status |
+| --- | --- | --- | --- |
+| **NestJS** | Fixed process-listener leaks from repeated shutdown-hook registrations and added regression coverage. | [nestjs/nest#17625](https://github.com/nestjs/nest/pull/17625) | **Merged** |
+| **Mermaid** | Proposed splitting scoped end-to-end tests across two CI shards to prevent Markdown snapshot timeouts. | [mermaid-js/mermaid#8236](https://github.com/mermaid-js/mermaid/pull/8236) | Open |
+
+---
+
 ## 🎯 Specialized Expertise
 
 ```

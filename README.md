@@ -129,7 +129,7 @@ const rajeshwar: Engineer = {
 <div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center" valign="top">
 
 **🏥 Hospital Management System**
 React · Node.js · MongoDB · JWT
@@ -139,17 +139,7 @@ API response time: **850ms → 320ms**
 Patient check-in time reduced **40%**
 
 </td>
-<td width="33%" align="center">
-
-**♿ Cboard AAC Platform**
-Open Source · WCAG 2.1 · React
-
-Accessibility score: **78% → 94%**
-Serving **10K+ users** with speech disabilities
-WCAG 2.1 AA-compliant contributions
-
-</td>
-<td width="33%" align="center">
+<td width="50%" align="center" valign="top">
 
 **📱 Socially — Social Platform**
 Next.js · TypeScript · Tailwind CSS
@@ -171,6 +161,15 @@ Core Web Vitals improved **35%**
 | --- | --- | --- | --- |
 | **NestJS** | Fixed process-listener leaks from repeated shutdown-hook registrations and added regression coverage. | [nestjs/nest#17625](https://github.com/nestjs/nest/pull/17625) | **Merged** |
 | **Mermaid** | Split scoped end-to-end tests across two CI shards to prevent Markdown snapshot timeouts. | [mermaid-js/mermaid#8236](https://github.com/mermaid-js/mermaid/pull/8236) | **Merged** |
+| **Vitest** | Fixed the agent/minimal reporter to respect explicit `silent` settings while preserving its default behavior. | [vitest-dev/vitest#11271](https://github.com/vitest-dev/vitest/pull/11271) | **Merged** |
+
+### ♿ Cboard AAC Platform
+
+Open Source · WCAG 2.1 · React
+
+- Accessibility score: **78% → 94%**
+- Serving **10K+ users** with speech disabilities
+- WCAG 2.1 AA-compliant contributions
 
 ---
 
